@@ -1,6 +1,6 @@
 # Biblioteca – Banco de Dados SQL
 
-Este projeto apresenta a criação de um **banco de dados relacional simples para gerenciamento de uma biblioteca**, desenvolvido utilizando **SQL (Oracle)**. O objetivo é praticar conceitos de **modelagem de dados, criação de tabelas e aplicação de constraints** para garantir a integridade das informações.
+Este projeto apresenta a criação de um **Banco de dados relacional simples para gerenciamento de uma biblioteca**, desenvolvido utilizando **SQL (Oracle)**. O objetivo é praticar conceitos de **modelagem de dados, criação de tabelas e aplicação de constraints** para garantir a integridade das informações.
 
 ## Estrutura do Banco
 
